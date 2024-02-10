@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mansur Mustafin</h1>
-<h3 align="center">3rd year student of the Bachelor's Degree in Informatics and Computing Engineering at Porto University</h3>
+<h1> Hi 👋, I'm Mansur Mustafin</h1>
+<h3> 3rd year student of the Bachelor's Degree in Informatics and Computing Engineering at Porto University</h3>
 
 
 <h2 align = "center" >Projects</h2>
