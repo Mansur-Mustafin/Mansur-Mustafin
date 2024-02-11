@@ -14,17 +14,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansur-Mustafin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
 
 <h2 align = "center" >Projects</h2>
 <p align = "center">
