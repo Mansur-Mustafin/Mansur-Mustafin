@@ -32,7 +32,7 @@
 | ES   | - | -                                                                                                                                                                     | TBD         |
 | PFL  | [Apart](https://github.com/Mansur-Mustafin/PFL-Apart) | Implementation of board game using logic programming                                                              | 19.7        |
 | PFL  | [Haskell Coursework](https://github.com/Mansur-Mustafin/PFL-Coursework-Haskell) | Implementation of Compiler using Haskell                                                | 19.8        |
-| RCOM | [Data Link Layer](https://github.com/dsantosferreira/rcom-project1) | Implementation of DLL e Phisical Layer                                                              | 20          |
+| RCOM | [Data Link Layer](https://github.com/Mansur-Mustafin/RCOM-DataLinkProtocol) | Implementation of DLL e Phisical Layer                                                              | 20          |
 | RCOM | [Computer Networks](https://github.com/Mansur-Mustafin/RCOM-Computer-Networks) | Implementation TCP protocol                                                              | 19.5        |
 
 <!--- | BD   | [Football League]() | -                                                                                                                                                   | 18.8        | -->
