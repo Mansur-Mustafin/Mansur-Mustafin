@@ -28,11 +28,11 @@
 | DA   | [RailwayNetwork](https://github.com/Mansur-Mustafin/DA-RailwayNetwork) | An Analysis Tool for Railway Network Management                                                  | 19.7        | 
 | DA   | [TSP](https://github.com/Mansur-Mustafin/DA-tsp) | Travelling Salesperson Problem. Routing Algorithm for Ocean Shipping and Urban Deliveries.                             | 20          |
 | LCOM | [Blackjack](https://github.com/Mansur-Mustafin/LCOM-Blackjack) | Implementation of game and devices                                                                       | 20          |
-| LTW  | - | -                                                                                                                                                                     | TBD         |
+| LTW  | [Pre-Loved](https://github.com/Mansur-Mustafin/LTW-Pre-Loved) | Website that facilitates the buying and selling of pre-loved items.                                       | 19.4        |
 | ES   | - | -                                                                                                                                                                     | TBD         |
 | PFL  | [Apart](https://github.com/Mansur-Mustafin/PFL-Apart) | Implementation of board game using logic programming                                                              | 19.7        |
 | PFL  | [Haskell Coursework](https://github.com/Mansur-Mustafin/PFL-Coursework-Haskell) | Implementation of Compiler using Haskell                                                | 19.8        |
-| RCOM | [Data Link Layer](https://github.com/Mansur-Mustafin/RCOM-DataLinkProtocol) | Implementation of DLL e Phisical Layer                                                              | 20          |
+| RCOM | [Data Link Layer](https://github.com/Mansur-Mustafin/RCOM-DataLinkProtocol) | Implementation of DLL e Phisical Layer                                                      | 20          |
 | RCOM | [Computer Networks](https://github.com/Mansur-Mustafin/RCOM-Computer-Networks) | Implementation TCP protocol                                                              | 19.5        |
 
 <!--- | BD   | [Football League]() | -                                                                                                                                                   | 18.8        | -->
