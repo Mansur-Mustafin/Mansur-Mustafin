@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning PyTorch.<br>🎯 Goals: Finish University<br>🎲 Fun fact: I'm working in University</p>
 
 ###
-
+<!---
 
 <h2 align = "center" >Projects</h2>
 <p align = "center">
@@ -41,4 +41,3 @@
 
 <!--- | BD   | [Football League]() | -                                                                                                                                                   | 18.8        | -->
 </p>
-
